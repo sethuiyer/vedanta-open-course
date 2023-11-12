@@ -84,25 +84,25 @@ This holistic course explores the profound teachings of Vedanta, a school of Hin
 - A day every week should be designated for intermittent fasting until 4 PM to improve the mental clarity.
 - Participants must wake up before sunrise throughout the duration of the course.
 
-### **Week 1-4:**
-- **Assignment:** Summarize your learnings and share that on Github.
-- **Sadhana:** Daily Yoga Practice, mindfulness meditation, and breath awareness.
+### Week 1-4: Foundations of Self-Knowledge
+- **Assignment:** Create a digital story or a short video presentation detailing your understanding of the Atman (the true self) and its distinction from the physical and mental entities. Use personal experiences or creative storytelling to illustrate these concepts.
+- **Sadhana:** Along with daily yoga practice, incorporate a weekly thematic meditation focusing on different aspects of the self (body, mind, intellect, and Atman).
 
-### **Week 5-8:**
-- **Assignment:** Find Parallels between Neuroscience's findings and Vedanta's Teachings.
-- **Sadhana:** Daily Yoga Practice AND Regular practice of Pranayama (breath control).
+### Week 5-8: Mind, Perception, and Neuroscience
+- **Assignment:** Conduct a mini-research project where you interview individuals about their perception of reality and then analyze their responses in light of Vedantic teachings and neuroscience findings. Prepare a report or presentation on your findings.
+- **Sadhana:** Practice mindfulness exercises in different settings (nature, home, workplace) to observe the changes in mind and perception.
 
-### **Week 9-12:**
-- **Assignment:** Explore the connection between Karma and character development. Submit reflections.
-- **Sadhana:** Daily Yoga Practice, Pranayama, and Journaling and self-reflection exercises.
+### Week 9-12: Karma, Ethics, and Character
+- **Assignment:** Engage in a community service activity or a project that aligns with the principles of Karma Yoga. Reflect on how this service impacts your character development and understanding of duty (Dharma).
+- **Sadhana:** Implement a daily routine of self-reflection, focusing on actions (Karma) and their ethical implications, along with your regular Yoga and Pranayama practices.
 
-### **Week 13-16:**
-- **Assignment:** Develop a personal project applying Vedantic concepts. Present during the final week.
-- **Sadhana:** Daily Yoga Practice.
+### Week 13-16: Personal Application of Vedantic Concepts
+- **Assignment:** Develop a personal blog or diary entries that document your journey of applying Vedantic principles in everyday scenarios, focusing on challenges and how Vedantic teachings helped you navigate them.
+- **Sadhana:** Choose a specific Vedantic meditation technique and practice it consistently, documenting your experiences and insights in a journal.
 
-### **Week 16-20:**
-- **Assignment:** Read all the research papers referenced in the lectures.
-- **Sadhana:** Daily Yoga Practice and 2 min Tratka daily.
+### Week 16-20: Deepening Concentration and Focus
+- **Assignment:** Engage in a focused study of a particular aspect of Vedanta (like a specific Upanishad or a concept like Brahman). Prepare a detailed essay or presentation that includes both your research and personal insights.
+- **Sadhana:** Combine daily Yoga practice with advanced concentration techniques, such as Dharana (focused concentration) and Trataka, increasing the duration gradually.
 
 --- 
 
