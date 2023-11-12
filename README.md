@@ -94,7 +94,7 @@ This holistic course explores the profound teachings of Vedanta, a school of Hin
 
 ### Week 9-12: Karma, Ethics, and Character
 - **Assignment:** Create a "Karma Diary." This diary should serve as a reflective journal where you record daily actions and decisions, particularly those involving ethical dilemmas or moral choices. At the end of each day, reflect on these actions in the light of Karma Yoga principles. Reflect on how this service impacts your character development and understanding of duty (Dharma).
-- 
+  
 - **Sadhana:** Implement a daily routine of self-reflection, focusing on actions (Karma) and their ethical implications, along with your regular Yoga and Pranayama practices.
 
 ### Week 13-16: Personal Application of Vedantic Concepts
