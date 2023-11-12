@@ -3,19 +3,9 @@
   <img src="https://raw.githubusercontent.com/sethuiyer/vedanta-open-course/main/Course_Logo.png" width="368" height="368">
 </p>
 
+## **Course Description:**
 
-Are you seeking to discover your true self, manage your thoughts, and achieve lasting happiness? Then Vedanta: The Science of Self, Mind, and Happiness is a transformative journey waiting for you. This free online course takes you on a holistic exploration of ancient wisdom combined with modern science, offering practical techniques to integrate the teachings of Vedanta into your daily life.                                                                                                                                                                       
-
-Guided by esteemed instructors **Swami Sarvapriyananda** and **Pravrajika Divyanandaprana**, this course explores the essence of Vedanta - a Hindu philosophy that focuses on self-discovery, mind    management, and happiness. You'll delve into topics such as the nature of reality, the true identity of the self, and the relationship between the two.                                       
-
-
-Throughout the course, you'll engage in weekly assignments and sadhanas (practices), including meditation, breath control, self-reflection, and journaling. These techniques will help you understand and apply the principles of Vedanta, leading to personal growth and inner peace.                                                                                                   
-
-
-Optional readings are provided for further enrichment, and at the end of the course, you'll complete a final project that demonstrates your understanding and application of Vedanta.                                                            
-
-
-Enroll today to begin this life-changing journey toward self-discovery, emotional intelligence, and better relationships with yourself, family, and society. The Science of Self, Mind, and Happiness awaits you!
+This holistic course explores the profound teachings of Vedanta, a school of Hindu philosophy, focusing on self-discovery, mind management, and the pursuit of happiness. Led by esteemed instructors Swami Sarvapriyananda and Pravrajika Divyanandaprana, the course delves into the intersection of ancient wisdom with modern science, including neuroscience, psychology, and subjective research methodologies.
 
 ## **Course Highlights:**
 - **Holistic Exploration:** Combine ancient wisdom with modern science.
@@ -25,8 +15,6 @@ Enroll today to begin this life-changing journey toward self-discovery, emotiona
 - **Optional Readings:** Further enrich your learning experience.
 - **Final Project:** Demonstrate your understanding and application of Vedanta.
 
-**Optional Certificates:** Although no formal certificates are provided, the true value lies in the profound personal transformation and self-realization experienced by participants.
-
 ## **Instructors:**
 1. **Swami Sarvapriyananda**
    - Hindu Monk, Head of Vedanta Society of New York
@@ -34,9 +22,8 @@ Enroll today to begin this life-changing journey toward self-discovery, emotiona
 2. **Pravrajika Divyanandaprana**
    - Monastic Member of Sri Sarada Math, Renowned for Disseminating Indian Knowledge Systems
 
-## **Course Description:**
-
-This holistic course explores the profound teachings of Vedanta, a school of Hindu philosophy, focusing on self-discovery, mind management, and the pursuit of happiness. Led by esteemed instructors Swami Sarvapriyananda and Pravrajika Divyanandaprana, the course delves into the intersection of ancient wisdom with modern science, including neuroscience, psychology, and subjective research methodologies.
+## Course TA
+[VedantaGPT](https://chat.openai.com/g/g-r251eAVOi-vedantagpt) (Requires ChatGPT Plus)
 
 # Course Structure
 
@@ -89,6 +76,14 @@ This holistic course explores the profound teachings of Vedanta, a school of Hin
 6. [Thou Art That](https://youtube.com/watch?v=NIRPLg-omzo) (1:24:09)
 
 ## **Weekly Assignments and Sadhana:**
+
+**Sadhana: 21 Days Yoga Challenge (Integrated):**
+- Participants are required to join the follow [this](https://youtube.com/playlist?list=PL_zQ5xq2u4RxGvjw4xjYYaf-qs7Yb2Okt) for the daily yoga practices.
+- Please repeat the practice one time per day throughout the duration of the course.
+- Please suit yourself with a comfortable meditation or Pranayama practice of your choice.
+- A day every week should be designated for intermittent fasting until 4 PM to improve the mental clarity.
+- Participants must wake up before sunrise throughout the duration of the course.
+
 ### **Week 1-4:**
 - **Assignment:** Summarize your learnings and share that on Github.
 - **Sadhana:** Daily Yoga Practice, mindfulness meditation, and breath awareness.
@@ -112,28 +107,22 @@ This holistic course explores the profound teachings of Vedanta, a school of Hin
 --- 
 
 **Course Conclusion:**
+
 Participants will gain a deep understanding of Vedantic philosophy, practical tools for self-discovery, and insights into mind management and happiness. 
 
-**Final Project Ideas:**
-1. Write a reflective essay on how Vedanta has impacted your personal growth and share it with the class.
-2. Conduct a research study on the effects of Vedanta-based practices on stress, anxiety, and overall well-being.
-3. Create a journal where you document your daily practice of Vedantic principles, reflecting on the impact it has had on your personal growth and well-being.
-4. Write a personal manifesto on how you plan to integrate Vedanta teachings into your everyday life and inspire others to do the same.
-5. Conduct an in-depth case study on an individual or group who has applied Vedanta to overcome difficult personal challenges and present your findings through an oral presentation.
+**Question Bank and Paper**
 
-**Sadhana: 21 Days Yoga Challenge (Integrated):**
-- Participants are required to join the follow [this](https://youtube.com/playlist?list=PL_zQ5xq2u4RxGvjw4xjYYaf-qs7Yb2Okt) for the daily yoga practices. Please repeat the practice one time per day throughout the duration of the course.
-- A day every week should be designated for intermittent fasting until 4 PM to improve the mental clarity.
-- Participants must wake up before sunrise throughout the duration of the course.
-
+Question banks and papers with the final project ideas are provided in the repository.
 
 **Coursework Readings (Optional):**
+
 - The Yoga Sutras of Patanjali
 - The Upanishads (selected chapters)
 - The Bhagavad Gita
 - The Brahma Sutras
 - The Vivekachudamani (Crest Jewel of Wisdom)
 
-
+## Credits
+Credits goes to National Resource Centre for Value Education in Engineering (NRCVEE) and YouTube for the course materials, ChatGPT Plus and Claude 2 for creating the question banks and DALLE-3 for creating a beautiful course logo.
 
 
